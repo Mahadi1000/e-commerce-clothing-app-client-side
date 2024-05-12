@@ -1,0 +1,1036 @@
+{
+  "products": [
+    {
+      "id": 205082351,
+      "name": "Shirt - 1",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Darron Miloscia",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "United Kingdom",
+          "rating": 5,
+          "date": "March 3, 2017",
+          "reviewTitle": "Thinking to buy another one!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Andres Papp",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Portugal",
+          "rating": 4,
+          "date": "March 3, 2020",
+          "reviewTitle": "Very good boots!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Twana Davinroy",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "Germany",
+          "rating": 3,
+          "date": "March 3, 2023",
+          "reviewTitle": "It can be better!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 115,
+          "text": "$115.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132179002,
+      "imageUrl": "i.ibb.co/nC03fKX/shirt-img-9.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/nC03fKX/shirt-img-9.jpg",
+        "i.ibb.co/nC03fKX/shirt-img-9.jpg",
+        "i.ibb.co/nC03fKX/shirt-img-9.jpg",
+        "i.ibb.co/nC03fKX/shirt-img-9.jpg"
+      ]
+    },
+    {
+      "id": 205107270,
+      "name": "Shirt - 2",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Gabriele Krein",
+          "userImage": "/src/assets/user profile photo 1 f.jpg",
+          "location": "France",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product for women!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Ashlie Amon",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "France",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "Not perfect but very good!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Rosenda Kukucka",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "I will buy 10 of these!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 88,
+          "text": "$88.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132236489,
+      "imageUrl": "i.ibb.co/7rM4R8G/shirt-img-10.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/7rM4R8G/shirt-img-10.jpg",
+        "i.ibb.co/7rM4R8G/shirt-img-10.jpg",
+        "i.ibb.co/7rM4R8G/shirt-img-10.jpg",
+        "i.ibb.co/7rM4R8G/shirt-img-10.jpg"
+      ]
+    },
+    {
+      "id": 204349751,
+      "name": "Shirt - 3",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Bennett Bushley",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "India",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best sneakers in the whole world!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bennett Bushley",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "China",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "This sneakers are golden!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Milan Dragić",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Serbia",
+          "rating": 1,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product for women!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "$90.00"
+        }
+      },
+      "brandName": "Reebok",
+      "productCode": 126663939,
+      "imageUrl": "i.ibb.co/tMmW0Mm/shirt-img-8.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/tMmW0Mm/shirt-img-8.jpg",
+        "i.ibb.co/tMmW0Mm/shirt-img-8.jpg",
+        "i.ibb.co/tMmW0Mm/shirt-img-8.jpg",
+        "i.ibb.co/tMmW0Mm/shirt-img-8.jpg",
+        "i.ibb.co/tMmW0Mm/shirt-img-8.jpg"
+      ]
+    },
+    {
+      "id": 204525730,
+      "name": "Shirt - 4",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Darwin Jeffres",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Gibraltar",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "I expected more from Nike",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Armando Robertus",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "England",
+          "rating": 2,
+          "date": "January 2, 2023",
+          "reviewTitle": "I don't like these sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Art Colombo",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Senegal",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 210,
+      "productionDate": "2019-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "$130.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493550,
+      "imageUrl": "i.ibb.co/n8g5fZY/shirt-img-7.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/n8g5fZY/shirt-img-7.jpg",
+        "i.ibb.co/n8g5fZY/shirt-img-7.jpg",
+        "i.ibb.co/n8g5fZY/shirt-img-7.jpg",
+        "i.ibb.co/n8g5fZY/shirt-img-7.jpg"
+      ]
+    },
+    {
+      "id": 204913684,
+      "name": "Shirt - 5",
+      "description": "Demo description",
+      "isInStock": false,
+      "gender": "male",
+      "category": "slippers",
+      "availableSizes": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "Edwin Stegura",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Pakistan",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "If threre is 0 I would give it",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Art Colombo",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Mexico",
+          "rating": 3,
+          "date": "January 1, 2023",
+          "reviewTitle": "Good shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Paris Boye",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "China",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 40,
+      "productionDate": "2019-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 34.5,
+          "text": "$34.50"
+        }
+      },
+      "brandName": "Jack & Jones",
+      "productCode": 130949144,
+      "imageUrl": "i.ibb.co/XD5FM6q/shirt-img-6.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/XD5FM6q/shirt-img-6.jpg",
+        "i.ibb.co/XD5FM6q/shirt-img-6.jpg",
+        "i.ibb.co/XD5FM6q/shirt-img-6.jpg",
+        "i.ibb.co/XD5FM6q/shirt-img-6.jpg"
+      ]
+    },
+    {
+      "id": 204295159,
+      "name": "Shirt - 6",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "slippers",
+      "availableSizes": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Paris Boye",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "China",
+          "rating": 4,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very good for males",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Ronald Haisten",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Denmark",
+          "rating": 5,
+          "date": "January 3, 2023",
+          "reviewTitle": "Simple and very good",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Tula Gunnip",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Egipt",
+          "rating": 5,
+          "date": "January 3, 2023",
+          "reviewTitle": "Good present for my boyfriend",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 59.99,
+          "text": "$59.99"
+        }
+      },
+      "brandName": "Crocs",
+      "productCode": 126448542,
+      "imageUrl": "i.ibb.co/r08sK7x/shirt-img-5.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/r08sK7x/shirt-img-5.jpg",
+        "i.ibb.co/r08sK7x/shirt-img-5.jpg",
+        "i.ibb.co/r08sK7x/shirt-img-5.jpg",
+        "i.ibb.co/r08sK7x/shirt-img-5.jpg"
+      ]
+    },
+    {
+      "id": 205116880,
+      "name": "Shirt - 7",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Tula Gunnip",
+          "userImage": "/src/assets/user profile photo 11.jpg",
+          "location": "Italy",
+          "rating": 3,
+          "date": "January 3, 2023",
+          "reviewTitle": "Good present for my boyfriend",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alden Stropki",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Bosnia",
+          "rating": 4,
+          "date": "February 3, 2023",
+          "reviewTitle": "Good and practical",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Trenton Schairer",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Germany",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 7,
+      "productionDate": "2013-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 75,
+          "text": "$75.00"
+        }
+      },
+      "brandName": "Vans",
+      "productCode": 132249573,
+      "imageUrl": "i.ibb.co/djM3VCs/shirt-img-4.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/djM3VCs/shirt-img-4.jpg",
+        "i.ibb.co/djM3VCs/shirt-img-4.jpg",
+        "i.ibb.co/djM3VCs/shirt-img-4.jpg",
+        "i.ibb.co/djM3VCs/shirt-img-4.jpg"
+      ]
+    },
+    {
+      "id": 205117227,
+      "name": "Shirt - 8",
+      "description": "Demo description",
+      "isInStock": false,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Trenton Schairer",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Germany",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "John Markin",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "January 31, 2023",
+          "reviewTitle": "I like these sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Wilber Risola",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Switzerland",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "This is excellent product by Puma!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 11,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "$90.00"
+        }
+      },
+      "brandName": "Puma",
+      "productCode": 132250056,
+      "imageUrl": "i.ibb.co/3zCpnTm/shirt-img-3.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/3zCpnTm/shirt-img-3.jpg",
+        "i.ibb.co/3zCpnTm/shirt-img-3.jpg",
+        "i.ibb.co/3zCpnTm/shirt-img-3.jpg",
+        "i.ibb.co/3zCpnTm/shirt-img-3.jpg",
+        "i.ibb.co/3zCpnTm/shirt-img-3.jpg"
+      ]
+    },
+    {
+      "id": 205170977,
+      "name": "Shirt - 9",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Luka Modrić",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Croatia",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best sneakers for sport!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Leon Westphalen",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Japan",
+          "rating": 4,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "I am very happy with this product, but it is not perfect!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Berta Ruediger",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 320,
+      "productionDate": "2017-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 129.99,
+          "text": "$129.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362851,
+      "imageUrl": "i.ibb.co/k9Rzgth/shirt-img-2.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/k9Rzgth/shirt-img-2.jpg",
+        "i.ibb.co/k9Rzgth/shirt-img-2.jpg",
+        "i.ibb.co/k9Rzgth/shirt-img-2.jpg",
+        "i.ibb.co/k9Rzgth/shirt-img-2.jpg",
+        "i.ibb.co/k9Rzgth/shirt-img-2.jpg"
+      ]
+    },
+    {
+      "id": 205170993,
+      "name": "Shirt - 10",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Hae Studer",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Sooo goood sneakers!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Hae Studer",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "The Best Sneakers In The World!!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3200,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 94.99,
+          "text": "$94.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362839,
+      "imageUrl": "i.ibb.co/Sn83Pvy/pant-img-6.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/Sn83Pvy/pant-img-6.jpg",
+        "i.ibb.co/Sn83Pvy/pant-img-6.jpg",
+        "i.ibb.co/Sn83Pvy/pant-img-6.jpg",
+        "i.ibb.co/Sn83Pvy/pant-img-6.jpg",
+        "i.ibb.co/Sn83Pvy/pant-img-6.jpg"
+      ]
+    },
+    {
+      "id": 205171062,
+      "name": "Shirt - 11",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Benedict Pojar",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "England",
+          "rating": 3,
+          "date": "January 31, 2023",
+          "reviewTitle": "Solid sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Henry Buller",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Soo goood sneakers!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Egypt",
+          "rating": 1,
+          "date": "January 31, 2023",
+          "reviewTitle": "I want my money back",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3120,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 89.99,
+          "text": "$89.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362836,
+      "imageUrl": "i.ibb.co/6FG3RrR/shirt-img-1.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/6FG3RrR/shirt-img-1.jpg",
+        "i.ibb.co/6FG3RrR/shirt-img-1.jpg",
+        "i.ibb.co/6FG3RrR/shirt-img-1.jpg",
+        "i.ibb.co/6FG3RrR/shirt-img-1.jpg",
+        "i.ibb.co/6FG3RrR/shirt-img-1.jpg"
+      ]
+    },
+    {
+      "id": 205171114,
+      "name": "Shirt - 12",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Cristopher Sciano",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Holand",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Excellent sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Tommie Huesing",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Very good and affordable sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bryant Garns",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "August 31, 2023",
+          "reviewTitle": "Simple and elegant",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 230,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 109.99,
+          "text": "$109.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362845,
+      "imageUrl": "i.ibb.co/8cZQYZg/pant-img-5.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/8cZQYZg/pant-img-5.jpg",
+        "i.ibb.co/8cZQYZg/pant-img-5.jpg",
+        "i.ibb.co/8cZQYZg/pant-img-5.jpg",
+        "i.ibb.co/8cZQYZg/pant-img-5.jpg",
+        "i.ibb.co/8cZQYZg/pant-img-5.jpg"
+      ]
+    },
+    {
+      "id": 205171544,
+      "name": "Shirt - 13",
+      "description": "Demo description",
+      "isInStock": false,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Jerald Rosemond",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "Soooo fantastic!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Elwood Winstone",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "These sneakers are sooo goood!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Claude Soots",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Denmark",
+          "rating": 4,
+          "date": "October 31, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5530,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 139.99,
+          "text": "$139.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362844,
+      "imageUrl": "i.ibb.co/dt33yns/pant-img-4.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/dt33yns/pant-img-4.jpg",
+        "i.ibb.co/dt33yns/pant-img-4.jpg",
+        "i.ibb.co/dt33yns/pant-img-4.jpg",
+        "i.ibb.co/dt33yns/pant-img-4.jpg",
+        "i.ibb.co/dt33yns/pant-img-4.jpg"
+      ]
+    },
+    {
+      "id": 203509790,
+      "name": "Shirt - 14",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Manuel Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Denmark",
+          "rating": 4,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Breslin",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "November 29, 2022",
+          "reviewTitle": "I am happy with these sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 130,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "$100.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 121204339,
+      "imageUrl": "i.ibb.co/ZBKvgrY/pant-img-3.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/ZBKvgrY/pant-img-3.jpg",
+        "i.ibb.co/ZBKvgrY/pant-img-3.jpg",
+        "i.ibb.co/ZBKvgrY/pant-img-3.jpg",
+        "i.ibb.co/ZBKvgrY/pant-img-3.jpg"
+      ]
+    },
+    {
+      "id": 204525320,
+      "name": "Shirt - 15",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "USA",
+          "rating": 4,
+          "date": "November 31, 2022",
+          "reviewTitle": "Very good sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Geraldo Dellapina",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "December 31, 2022",
+          "reviewTitle": "Excellent as a present for my kid!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3770,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 105,
+          "text": "$105.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493551,
+      "imageUrl": "i.ibb.co/hLCbFr7/pant-img-1.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/hLCbFr7/pant-img-1.jpg",
+        "i.ibb.co/hLCbFr7/pant-img-1.jpg",
+        "i.ibb.co/hLCbFr7/pant-img-1.jpg",
+        "i.ibb.co/hLCbFr7/pant-img-1.jpg"
+      ]
+    },
+    {
+      "id": 205136837,
+      "name": "Shirt - 16",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Errol Grabber",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kristofer Comi",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 131,
+          "text": "$131.00"
+        }
+      },
+      "brandName": "Tommy Jeans",
+      "productCode": 132292785,
+      "imageUrl": "i.ibb.co/5vhrkN1/pant-img-2.jpg",
+      "additionalImageUrls": [
+        "i.ibb.co/5vhrkN1/pant-img-2.jpg",
+        "i.ibb.co/5vhrkN1/pant-img-2.jpg",
+        "i.ibb.co/5vhrkN1/pant-img-2.jpg",
+        "i.ibb.co/5vhrkN1/pant-img-2.jpg"
+      ]
+    }
+  ]
+}
